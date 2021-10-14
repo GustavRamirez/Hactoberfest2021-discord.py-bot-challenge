@@ -71,6 +71,7 @@ async def load_cogs():
             "cogs.errors",
             "cogs.api",
             "cogs.images",
+            "cogs.music",
             "jishaku"
     ]
   for i in cogs:
